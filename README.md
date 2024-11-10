@@ -1,7 +1,6 @@
 # Program Perhitungan Nilai Akhir dan Grade
-![image](https://github.com/user-attachments/assets/11f4819a-8829-466e-b660-8b0c5380bb7e)
 
-
+![image](https://github.com/user-attachments/assets/a4f9c45b-3e38-4c8b-8ccb-5a3548dce7c6)
 
 
 Program ini digunakan untuk menghitung nilai akhir dan menentukan grade berdasarkan nilai presensi, tugas, Ujian Tengah Semester (UTS), dan Ujian Akhir Semester (UAS) dengan bobot tertentu. Program ini juga mengelompokkan nilai akhir ke dalam grade sesuai dengan ketentuan yang diberikan.
@@ -38,6 +37,9 @@ Nilai Akhir = (10% * nilai presensi) + (20% * nilai tugas) + (30% * nilai UTS) +
 
 ![Contoh Output Program](output-ifelse.PNG "Contoh Output Program")
 
+## TERIMAKASIH
+![image](https://github.com/user-attachments/assets/11f4819a-8829-466e-b660-8b0c5380bb7e)
+-hann
 
 
 
