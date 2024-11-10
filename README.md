@@ -1,4 +1,8 @@
 # Program Perhitungan Nilai Akhir dan Grade
+![image](https://github.com/user-attachments/assets/11f4819a-8829-466e-b660-8b0c5380bb7e)
+
+
+
 
 Program ini digunakan untuk menghitung nilai akhir dan menentukan grade berdasarkan nilai presensi, tugas, Ujian Tengah Semester (UTS), dan Ujian Akhir Semester (UAS) dengan bobot tertentu. Program ini juga mengelompokkan nilai akhir ke dalam grade sesuai dengan ketentuan yang diberikan.
 
