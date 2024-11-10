@@ -32,7 +32,7 @@ Nilai Akhir = (10% * nilai presensi) + (20% * nilai tugas) + (30% * nilai UTS) +
 ## Contoh Output
  Berikut adalah contoh output program setelah dijalankan:
 
-![Contoh Output Program](output-ifelse.png "Contoh Output Program")
+![Contoh Output Program](output-ifelse.PNG "Contoh Output Program")
 
 
 
